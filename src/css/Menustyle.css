@@ -24,7 +24,7 @@ html {
   overflow: hidden;
 }
 body {
-  background: #303030 url("/src/img/back.jpg") repeat-x 0 0;
+  background: #303030 url("https://vvkt.tk/src/img/back.jpg") repeat-x 0 0;
   background-size: cover;
   animation: MinecraftBackground 165s linear infinite;
   text-align: center;
